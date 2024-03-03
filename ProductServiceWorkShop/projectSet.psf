@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.egit.core.GitProvider">
+<project reference="1.0,https://github.com/Akhila-Gangadevi/REST-API-with-microservice-architecture.git,master,ProductServiceWorkShop"/>
+<project reference="1.0,https://github.com/Akhila-Gangadevi/REST-API-with-microservice-architecture.git,master,UserServiceWorkShop"/>
+</provider>
+</psf>
